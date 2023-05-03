@@ -1,4 +1,4 @@
-# Formtive assesment and inclusive language
+# Formative assesment and inclusive language
 During this session, participants learn practical tips and tricks that will allow them to keep track of their learners’
 progress and understanding during teaching practice. They will learn about how to design formative assessments and use
 inclusive language to avoid their learners dropping off. At the end of the session, some time will be devoted to
