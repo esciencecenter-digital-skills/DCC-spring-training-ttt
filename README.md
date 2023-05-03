@@ -13,3 +13,5 @@ implementing the tips and tricks into the participants' teaching material.
 | 01:05      | 40           | Inclusive language                               |
 | 01:45      | 30           | Update and work on your own materials            |
 | 02:15      | 5            | Closing                                          |
+
+[Slides](Formative_assessment_Inclusive_language.pptx)
